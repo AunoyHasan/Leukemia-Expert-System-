@@ -1,0 +1,20 @@
+CBC C PBF--->
+10
+120000000000
+4000000007
+-5999999995
+
+
+ALL-------->
+myloid          == 'erythroid_ratio_altrud'
+blast_cell      == 'yes'                     
+periodic_acid   == 'positive'               
+acid_phosphatex == 'positive'
+
+
+
+AML-------->
+myloid          ==  'not_erythroid_ratio_altrud'
+blast_cell      ==  'yes'         
+sudan_black     ==  'positive'         
+myelopsroxidsx  ==  'positive'

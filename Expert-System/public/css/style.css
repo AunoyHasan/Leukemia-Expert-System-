@@ -1,0 +1,122 @@
+*{
+    font-family: sans-serif;
+}
+
+.body{
+    background-color: rgb(223, 218, 173);
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    display: block;
+    width: 600 px;
+    margin: 0 auto;
+    height: 400px;
+    transition: 0.3s;
+}
+
+.header{
+    /* display: flex; */
+    padding-top: 15px;
+}
+
+.system-name{
+    text-align: right;
+    color: black;
+    font-size: 30px;
+}
+
+.span1{
+    /* background-color: darkorange; */
+    color: blue;
+    font-size: 30px;
+}
+
+.nav-bar{
+    margin-top: 10px;
+    text-align: right;
+}
+
+.sign-in{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: coral;
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 2px;
+}
+
+.sign-up{
+    text-decoration: none;
+    font-size: 20px;
+    background-color:goldenrod;
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 2px;
+}
+
+.sign-in:hover{
+    background-color: black;
+    color: white;
+}
+
+.sign-up:hover{
+    background-color:black;
+    color: white;
+}
+
+.card-header{
+    text-align: center;
+    color: blue;
+}
+
+tr{
+    text-align: center;
+}
+
+.card-header{
+    background-color: bisque;
+    color: blueviolet;
+    font-size: 20px;
+}
+
+/* .card:hover{
+    background-color:darksalmon;
+    color: black;
+    font-size: 20px;
+} */
+
+.card-1:hover{
+    background-color: orangered;
+    color: white;
+    font-size: 25px;
+}
+
+.card-2:hover{
+    background-color:goldenrod;
+    color:crimson;
+    font-size: 25px;
+}
+
+.card-3:hover{
+    background-color:darkorange;
+    color: black;
+    font-size: 25px;
+}
+
+.card-4:hover{
+    background-color:chartreuse;
+    color: black;
+    font-size: 25px;
+}
+
+.card-5:hover{
+    background-color:darkgrey;
+    color: black;
+    font-size: 25px;
+}
